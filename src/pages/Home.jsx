@@ -13,6 +13,10 @@ function Home() {
         <Typography variant="h5" color="text.secondary" paragraph>
           Student at Princeton University | Researcher | Developer
         </Typography>
+        <Typography variant="h5" color="text.secondary" paragraph>
+        <a href="https://www.linkedin.com/in/28-jonathan-liu">LinkedIn</a> | <a href="https://github.com/liujonathan24/">Github</a> | <a href="mailto:jonathanliu@princeton.edu">Email</a>
+        </Typography>
+        
         <Box sx={{ mt: 4 }}>
           <Button
             variant="contained"
