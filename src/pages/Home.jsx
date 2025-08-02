@@ -11,7 +11,7 @@ function Home() {
           Hi, I'm Jonathan Liu
         </Typography>
         <Typography variant="h5" color="text.secondary" paragraph>
-          Student at Princeton University | Researcher | Developer
+          Student at Princeton University | Researcher 
         </Typography>
         <Typography variant="h5" color="text.secondary" paragraph>
         <a href="https://www.linkedin.com/in/28-jonathan-liu">LinkedIn</a> | <a href="https://github.com/liujonathan24/">Github</a> | <a href="mailto:jonathanliu@princeton.edu">Email</a>
@@ -46,7 +46,7 @@ function Home() {
               Research
             </Typography>
             <Typography color="text.secondary">
-              Exploring cutting-edge topics in computer science and beyond.
+              Exploratory efforts and work with research labs.
             </Typography>
             <Button
               component={RouterLink}

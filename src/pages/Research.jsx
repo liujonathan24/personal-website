@@ -12,7 +12,20 @@ function Research() {
           Current Research
         </Typography>
         <Typography paragraph>
-          [Your current research projects and interests will go here]
+
+            <a href="https://ai-tutor-app-zeta.vercel.app/login">Project CodeHT:</a>
+              <br></br>
+              <ul>
+                  <li>This project seeks to facilitate learning competitive programming by offering 
+                  an interactive environment and a finetuned "AI-tutor" llm to help. I work on the 
+                  software side and as a tester. Human data is augmented by using LLMs that imitate 
+                  a human trajectory and interact with the coding interface. Paper to be finalized March-April 2025.</li>
+              </ul>
+          
+           
+                    
+                    
+                    [More research projects and interests to come!]
         </Typography>
       </Paper>
       <Paper sx={{ p: 3 }}>

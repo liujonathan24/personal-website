@@ -17,7 +17,7 @@ function Blog() {
               [Date]
             </Typography>
             <Typography paragraph>
-              [Blog post preview content will go here]
+              [Blog post preview content to go here]
             </Typography>
           </Paper>
         </Grid>

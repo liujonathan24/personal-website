@@ -23,8 +23,6 @@ function Research() {
               </ul>
           
            
-                    
-                    
                     [More research projects and interests to come!]
         </Typography>
       </Paper>
