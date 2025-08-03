@@ -24,7 +24,7 @@ function Research() {
         </Typography>
       </Paper>
       
-      <Paper sx={{ p: 3 }}>
+      <Paper sx={{ p: 3, mb: 3  }}>
         <Typography variant="h5" gutterBottom>
           Princeton Vision Lab
         </Typography>
