@@ -21,11 +21,21 @@ function Research() {
                   software side and as a tester. Human data is augmented by using LLMs that imitate 
                   a human trajectory and interact with the coding interface. Paper to be finalized March-April 2025.</li>
               </ul>
-          
-           
-                    
-                    
-                    [More research projects and interests to come!]
+        </Typography>
+      </Paper>
+      
+      <Paper sx={{ p: 3 }}>
+        <Typography variant="h5" gutterBottom>
+          Princeton Vision Lab
+        </Typography>
+        <Typography paragraph>
+          <a href="https://princeton-vl.github.io/infinigen-sim/">Infinigen-Sim: Procedural Generation of Articulated Simulation Assets</a>
+              <br></br>
+              <ul>
+                  <li>We introduce a framework for creating procedural generators for articulate objects, allowing for the creation of infinite training data. We show that 
+                    zero-shot sim2real performance is drastically improved by including Infinigen-Sim data in training data.
+                  </li>
+              </ul>
         </Typography>
       </Paper>
       <Paper sx={{ p: 3 }}>
